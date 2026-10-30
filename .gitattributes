@@ -1,0 +1,58 @@
+# BEGIN enterprise-intelligence-line-endings (managed — do not edit)
+# Written by `enterprise-intelligence update`. Lines outside this block are
+# yours and are kept as they are; a rule of yours BELOW this block wins.
+# Files already committed keep their stored endings until a one-time
+# `git add --renormalize .` commit, which the update never makes for you.
+* text=auto eol=lf
+*.sh text eol=lf
+*.bash text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.xlsx binary
+*.xlsm binary
+*.xls binary
+*.docx binary
+*.doc binary
+*.pptx binary
+*.ppt binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.bmp binary
+*.tif binary
+*.tiff binary
+*.avif binary
+*.heic binary
+*.psd binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.tgz binary
+*.7z binary
+*.tar binary
+*.jar binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+*.eot binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.flac binary
+*.m4a binary
+*.mp4 binary
+*.mov binary
+*.webm binary
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.pyc binary
+*.sqlite binary
+*.db binary
+# END enterprise-intelligence-line-endings
